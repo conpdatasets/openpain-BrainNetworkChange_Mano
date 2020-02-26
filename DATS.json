@@ -1,17 +1,17 @@
 {
-    "title": "OpenPain BrainNetworkChange_Mano",
-    "description": "Data added from ftp://openpain.org/BrainNetworkChange_Mano, see http://openpain.org for more information.",
-    "licenses": [
+	"title": "OpenPain BrainNetworkChange_Mano",
+	"description": "Data added from ftp://openpain.org/BrainNetworkChange_Mano, see http://openpain.org for more information.",
+	"licenses": [
 		{
 			"name": "http://openpain.org/generalLicense.html"
 		}
 	],
-    "creators": [
-        {
-            "@type": "Organization",
-            "name": "OpenPain"
-        }
-    ],
+	"creators": [
+		{
+	            "@type": "Organization",
+	            "name": "OpenPain"
+	        }
+	],
     "types": [
         { 
             "value": "MRI"
@@ -45,7 +45,7 @@
 		},
 		{
 			"value" : "brain imaging"
-		},
+		}
 	],
     "version": "1.0",
     "privacy": "Open Access",
