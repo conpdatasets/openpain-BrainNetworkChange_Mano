@@ -70,7 +70,7 @@
                 }
             ]
         },
-	{
+		{
 			"category": "contact",
 			"values": [
 				{
@@ -83,6 +83,17 @@
 			"values": [
 				{
 					"value": "external"
+				}
+			]
+		},
+		{
+			"category": "origin",
+			"values": [
+				{
+					"institution": "Northwestern University",
+					"city": "Evanston",
+					"province": "Illinois",
+					"country": "USA"
 				}
 			]
 		},
